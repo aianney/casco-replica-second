@@ -1,0 +1,169 @@
+[19-Sep-2018 13:33:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/via0y4oz7jum/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/locale.php on line 10
+[19-Nov-2018 14:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_robots() in /home/via0y4oz7jum/public_html/wp-includes/template-loader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/template-loader.php on line 28
+[01-Dec-2018 01:26:03 UTC] PHP Fatal error:  Class 'Walker' not found in /home/via0y4oz7jum/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[13-Dec-2018 22:44:07 UTC] PHP Fatal error:  Class 'Walker' not found in /home/via0y4oz7jum/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[01-Feb-2019 08:38:32 UTC] PHP Fatal error:  Class 'Walker' not found in /home/via0y4oz7jum/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[27-Feb-2019 13:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/via0y4oz7jum/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/locale.php on line 10
+[28-Jul-2019 22:51:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/via0y4oz7jum/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/rss-functions.php on line 8
+[14-Feb-2020 23:25:28 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[14-Feb-2020 23:25:28 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[14-Feb-2020 23:25:28 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[14-Feb-2020 23:25:28 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[07-Apr-2020 22:24:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/via0y4oz7jum/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/locale.php on line 10
+[08-Apr-2020 17:37:39 UTC] PHP Fatal error:  Class 'Walker' not found in /home/via0y4oz7jum/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[18-May-2020 03:33:42 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[18-May-2020 03:33:42 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[18-May-2020 03:33:42 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[18-May-2020 03:33:42 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[22-May-2020 14:29:43 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[22-May-2020 14:29:43 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[22-May-2020 14:29:43 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[22-May-2020 14:29:43 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[26-May-2020 08:09:35 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[26-May-2020 08:09:35 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[26-May-2020 08:09:35 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[26-May-2020 08:09:35 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[18-Jul-2020 11:18:28 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[18-Jul-2020 11:18:28 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[18-Jul-2020 11:18:28 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[18-Jul-2020 11:18:28 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[18-Jul-2020 11:18:52 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[18-Jul-2020 11:18:52 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[18-Jul-2020 11:18:52 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[18-Jul-2020 11:18:52 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[29-Jul-2020 18:14:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/via0y4oz7jum/public_html/wp-includes/update.php:813
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/update.php on line 813
+[30-Jul-2020 18:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/via0y4oz7jum/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 00:07:53 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 00:08:00 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 10:24:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/via0y4oz7jum/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 10:24:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/via0y4oz7jum/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 14:09:32 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:09:43 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:10:04 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:10:15 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:10:38 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:10:48 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:11:10 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:11:22 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:11:56 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:12:29 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:12:50 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:13:01 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:13:24 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:13:33 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:13:56 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:14:09 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:14:37 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:15:03 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:15:14 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:15:35 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:15:47 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:16:07 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:16:20 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:16:40 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:17:15 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:17:26 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:17:46 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:18:20 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:18:32 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:18:55 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:19:27 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:19:38 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:20:01 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:20:12 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:20:34 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:21:12 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:21:40 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:21:51 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:22:48 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:23:24 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:23:35 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:24:33 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:24:46 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:25:07 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:25:18 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:25:40 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:25:52 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:26:13 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:26:24 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:26:46 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:27:19 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:27:31 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:27:55 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:28:25 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:28:59 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:29:10 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 16:57:46 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 16:57:47 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[10-Aug-2020 23:10:52 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[10-Aug-2020 23:10:52 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[10-Aug-2020 23:10:52 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[10-Aug-2020 23:10:52 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[03-Sep-2020 02:56:15 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 13:27:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/via0y4oz7jum/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/feed-atom-comments.php on line 8
+[03-Sep-2020 13:27:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/via0y4oz7jum/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/feed-atom-comments.php on line 8
+[03-Sep-2020 13:27:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/via0y4oz7jum/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/feed-atom-comments.php on line 8
+[03-Sep-2020 17:30:45 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/via0y4oz7jum/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[04-Oct-2020 02:31:17 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[04-Oct-2020 02:31:17 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[04-Oct-2020 02:31:17 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[04-Oct-2020 02:31:17 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[25-Nov-2020 07:49:19 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[25-Nov-2020 07:49:19 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[25-Nov-2020 07:49:19 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[25-Nov-2020 07:49:19 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/via0y4oz7jum/public_html/wp-includes/functions.php on line 8
+[08-Apr-2021 15:39:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/via0y4oz7jum/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/locale.php on line 11
+[13-Apr-2021 11:13:29 UTC] PHP Fatal error:  Class 'Walker' not found in /home/via0y4oz7jum/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[05-Aug-2021 02:02:44 UTC] PHP Fatal error:  Class 'Walker' not found in /home/via0y4oz7jum/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[05-Aug-2021 10:10:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/via0y4oz7jum/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/locale.php on line 11
+[18-Oct-2021 18:58:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/via0y4oz7jum/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-includes/locale.php on line 11
+[19-Oct-2021 20:28:41 UTC] PHP Fatal error:  Class 'Walker' not found in /home/via0y4oz7jum/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[30-Nov-2022 18:12:32 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/via0y4oz7jum/public_html/wp-includes/compat.php on line 335
+[30-Nov-2022 18:12:32 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/via0y4oz7jum/public_html/wp-includes/compat.php on line 335
+[30-Nov-2022 18:12:32 UTC] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home/via0y4oz7jum/public_html/wp-includes/compat.php on line 335
+[30-Nov-2022 18:12:32 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/sodium_compat/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/via0y4oz7jum/public_html/wp-includes/compat.php on line 335

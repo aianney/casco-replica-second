@@ -1,0 +1,12 @@
+[09-Sep-2020 09:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add_rewrite_tag() on null in /home/via0y4oz7jum/public_html/wp-includes/rewrite.php:173
+Stack trace:
+#0 /home/via0y4oz7jum/public_html/wp-includes/class-wp-post-type.php(559): add_rewrite_tag('%sdm_downloads%', '([^/]+)', 'sdm_downloads=')
+#1 /home/via0y4oz7jum/public_html/wp-includes/post.php(1432): WP_Post_Type->add_rewrite_rules()
+#2 /home/via0y4oz7jum/public_html/wp-content/plugins/simple-download-monitor/sdm-post-type-and-taxonomy.php(39): register_post_type('sdm_downloads', Array)
+#3 /home/via0y4oz7jum/public_html/wp-content/plugins/simple-download-monitor/main.php(75): sdm_register_post_type()
+#4 /home/via0y4oz7jum/public_html/wp-content/plugins/simple-download-monitor/main.php(179): sdm_install_db_table()
+#5 /home/via0y4oz7jum/public_html/wp-content/plugins/simple-download-monitor/main.php(91): sdm_db_update_check()
+#6 /home/via0y4oz7jum/public_html/wp-includes/class-wp-hook.php(287): sdm_plugins_loaded_tasks('')
+#7 /home/via0y4oz7jum/public_html/wp-includes/c in /home/via0y4oz7jum/public_html/wp-includes/rewrite.php on line 173
+[10-Dec-2023 00:32:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/via0y4oz7jum/public_html/wp-content/plugins/google-sitemap-generator/class-googlesitemapgeneratorloader.php on line 671
+[10-Dec-2023 00:32:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/via0y4oz7jum/public_html/wp-content/plugins/google-sitemap-generator/class-googlesitemapgeneratorloader.php on line 671

@@ -1,0 +1,5 @@
+[30-Nov-2022 18:08:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/via0y4oz7jum/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/via0y4oz7jum/public_html/wp-admin/user/menu.php on line 10
+[10-Dec-2023 00:32:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/via0y4oz7jum/public_html/wp-content/plugins/google-sitemap-generator/class-googlesitemapgeneratorloader.php on line 671
